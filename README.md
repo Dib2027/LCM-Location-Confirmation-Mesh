@@ -1,7 +1,7 @@
 # LCM — Location Confirmation Mesh
 
 A GPS-free mesh network tracking and safety system 
-for wilderness environments — designed for national 
+for wilderness environments, designed for national 
 parks, hiking trails, and remote exploration.
 
 ## The Problem
